@@ -116,4 +116,4 @@ In the `printToPdf` function, you can adjust:
 
 ## License
 
-ISC License - see LICENSE file for details.
+GNU General Public License, version 2 - see LICENSE file for details.
