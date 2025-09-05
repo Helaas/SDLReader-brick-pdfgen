@@ -1,3 +1,9 @@
+# MacOS
+.DS_Store
+
+# Artifacts
+/build
+
 # Logs
 logs
 *.log
